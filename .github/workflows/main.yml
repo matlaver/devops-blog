@@ -8,7 +8,7 @@ permissions:
   id-token: write
   # for writing security events.
   security-events: write
-  # only required for workflows in private repositoriesm
+  # only required for workflows in private repositories
   actions: read
   contents: read
 
